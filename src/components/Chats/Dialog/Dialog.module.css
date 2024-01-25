@@ -1,0 +1,17 @@
+.active {
+    background-color: #adbcda;
+}
+
+.dialog {
+    padding: 10px;
+
+}
+
+.dialog a {
+    text-decoration: none;
+    color: #000;
+}
+
+.dialog:hover {
+    background-color: #e3e8ed;
+}

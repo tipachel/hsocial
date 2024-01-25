@@ -1,0 +1,10 @@
+.nav {
+    grid-area: n;
+    background: #adbcda;
+    padding: 20px;
+}
+
+.icon {
+    width: 20px;
+    padding-bottom: 15px;
+}
